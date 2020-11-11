@@ -21,7 +21,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 
-![](https://im.ezgif.com/tmp/ezgif-1-e0f448e3f140.gif)
+![](https://i.imgur.com/2fWcR8S.gif)
+
+
+
 
 ### Notes
 Some challenges I encountered while building the app was making sure to properly link each Cocoa Touch Class.
@@ -46,7 +49,9 @@ Some challenges I encountered while building the app was making sure to properly
 ### App Walkthrough GIF
 
 
-![](https://im.ezgif.com/tmp/ezgif-1-d4a39b5d0815.gif)
+
+![](https://i.imgur.com/n3JaWiB.gif)
+
 
 ### Notes
 Some challenges I encountered while building the app was the part that required you to install the CocoaPods. After copying and pasting my build error, "no module AlamifireImage". I was able to find a solution on StackOverflow.
