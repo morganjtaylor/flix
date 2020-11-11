@@ -5,6 +5,26 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ---
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="https://im.ezgif.com/tmp/ezgif-1-e0f448e3f140.gif" width=250><br>
+
+### Notes
+Some challenges I encountered while building the app was making sure to properly link each Cocoa Touch Class.
+
+
 
 ## Flix Part 1
 
