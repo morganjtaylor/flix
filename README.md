@@ -50,7 +50,7 @@ Some challenges I encountered while building the app was making sure to properly
 ### App Walkthrough GIF
 
 
-![](https://i.imgur.com/mACyGui.gif)
+![](ezgif.com-video-to-gif-7.gif)
 
 
 
